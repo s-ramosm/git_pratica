@@ -1,10 +1,10 @@
 class Calculadora():
 
-    def sumar(a, b):
+    def sumar(self,a, b):
         return a+b
 
-    def restar(a,b):
+    def restar(self,a,b):
         return a-b
 
-    def multiplicar(a, b):
+    def multiplicar(self,a, b):
         return a*b
