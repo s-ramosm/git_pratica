@@ -1,6 +1,3 @@
+from calculadora import *
 
-def hola_mundo():
-    print("Hola mundo")
-
-
-hola_mundo()
+calculadora = Calculadora()
